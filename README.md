@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## SC17 Birds of a Feather - Software Engineers: Careers in Research
 
-You can use the [editor on GitHub](https://github.com/softwaresaved/sc17-software-careers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tuesday, November 14th, 12:15pm - 1:15pm
+Room 603
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Agenda
 
-### Markdown
+- 12:15	Introduction to goals of session
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 12:20	Lightning Talks (3 minutes each)
 
-```markdown
-Syntax highlighted code block
+  - RSE Survey results overview (Neil Chue Hong)
+  - Career profile: Catherine Jones, Software Engineering Group Leader at Science and Technology Facilities Council
+  - Career profile: Andy Turner, Project Manager at Edinburgh Parallel Computing Centre
+  - Career profile: Lauren Michael, Research Computing Facilitator (RCF) at the University of Wisconsin-Madison
+  - Career profile: David Bernholdt, Distinguished R&D Staff Member and Group Leader at Oak Ridge National Laboratory
 
-# Header 1
-## Header 2
-### Header 3
+- 12:35 Discussion Topics
 
-- Bulleted
-- List
+  1. Career paths: how do RSEs want to be hired, promoted and evaluated?
+  2. Research software engineers organization: what can be done to help RSEs (and those supporting RSEs) at international, national, regional, and local levels?
+  3. Making the case for RSEs and RSE groups: business cases, evidence, case studies, tactics?
+  4. How do we want funders to support RSE roles and activities?
+  5. Building in RSE requirements as part of wider research infrastructure (eg new computing infrastructure, computational research projects, future capability planning)
 
-1. Numbered
-2. List
+13:05	Highlights from each group
 
-**Bold** and _Italic_ and `Code` text
+13:15	Finish
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/softwaresaved/sc17-software-careers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Discussion Topics
