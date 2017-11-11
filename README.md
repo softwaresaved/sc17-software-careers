@@ -1,13 +1,12 @@
 ## SC17 Birds of a Feather - Software Engineers: Careers in Research
 
-Tuesday, November 14th, 12:15pm - 1:15pm
-Room 603
+**Tuesday, November 14th, 12:15pm - 1:15pm, Room 603**
 
 ### Agenda
 
-- 12:15	Introduction to goals of session
+#### 12:15	Introduction to goals of session
 
-- 12:20	Lightning Talks (3 minutes each)
+#### 12:20	Lightning Talks (3 minutes each)
 
   - RSE Survey results overview (Neil Chue Hong)
   - Career profile: Catherine Jones, Software Engineering Group Leader at Science and Technology Facilities Council
