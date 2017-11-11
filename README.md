@@ -4,7 +4,7 @@
 
 ### Agenda
 
-  - 12:15	Introduction to goals of session
+  - 12:15	[Introduction to goals of session](#goals-of-session)
 
   - 12:20	Lightning Talks (3 minutes each)
 
@@ -25,5 +25,9 @@
   - 13:05	Highlights from each group
 
   - 13:15	Finish
+
+### Goals of session
+
+
 
 ### Discussion Topics
