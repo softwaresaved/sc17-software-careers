@@ -1,3 +1,5 @@
+# Software Engineers: Careers in Research
+
 ## SC17 Birds of a Feather - Software Engineers: Careers in Research
 
 **Tuesday, November 14th, 12:15pm - 1:15pm, Room 603**
@@ -18,11 +20,11 @@ https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354
 
   - 12:35 [Discussion Topics](#discussion-topics)
 
-    1. Career paths: how do RSEs want to be hired, promoted and evaluated? (Facilitator: )
-    2. Research software engineers organization: what can be done to help RSEs (and those supporting RSEs) at international, national, regional, and local levels? (Facilitator: )
-    3. Making the case for RSEs and RSE groups: business cases, evidence, case studies, tactics? (Facilitator: )
-    4. How do we want funders to support RSE roles and activities? (Facilitator: )
-    5. Building in RSE requirements as part of wider research infrastructure (eg new computing infrastructure, computational research projects, future capability planning) (Facilitator: )
+    1. Career paths: how do RSEs want to be hired, promoted and evaluated? (Facilitator: Lauren Michael, [Link to Notes](https://docs.google.com/document/d/1fNDGH9IImC2guVanyfeJv3DwSWqvhWBW4hemqa2Z2wo/edit?usp=sharing))
+    2. Research software engineers organization: what can be done to help RSEs (and those supporting RSEs) at international, national, regional, and local levels? (Facilitator: Catherine Jones, [Link to Notes](https://docs.google.com/document/d/1BpB1uj5B9AZvHnXXYPxaRPySvT_vayUW2zh1TA9yYSM/edit?usp=sharing))
+    3. Making the case for RSEs and RSE groups: business cases, evidence, case studies, tactics? (Facilitator: Neil Chue Hong, [Link to Notes](https://docs.google.com/document/d/1PjTufArAiwnpsu7QPfMRCOwKbHvTiuJeQvuid5eiqKM/edit?usp=sharing))
+    4. How do we want funders to support RSE roles and activities? (Facilitator: Daniel S. Katz, [Link to Notes](https://docs.google.com/document/d/1lcEevIE4VuTpzn4fztnvvkaI_TGAACHHGwE4B0MWiK4/edit?usp=sharing))
+    5. Building in RSE requirements as part of wider research infrastructure (eg new computing infrastructure, computational research projects, future capability planning) (Facilitator: Andy Turner, [Link to Notes](https://docs.google.com/document/d/1znMRtRhregrms8gkomvzVtLy7ngJ30UFY91FvlR3Q4Y/edit?usp=sharing))
 
   - 13:05	Highlights from each group
 
@@ -83,6 +85,6 @@ This Birds of a Feather session was organized by:
   - [David Perez-Suarez](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=david&ln=perez-suarez&uid=247473)
   - [Andrew R. Turner](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=andrew&ln=turner&uid=712473)
  
- ### Code of Conduct
+### Code of Conduct
  
- All participants are reminded that their involvement in this session is covered by the [SC17 Code of Conduct](http://sc17.supercomputing.org/attendees/code-of-conduct/).
+All participants are reminded that their involvement in this session is covered by the [SC17 Code of Conduct](http://sc17.supercomputing.org/attendees/code-of-conduct/).
