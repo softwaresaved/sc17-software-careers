@@ -1,5 +1,3 @@
-# Software Engineers: Careers in Research
-
 ## SC17 Birds of a Feather - Software Engineers: Careers in Research
 
 **Tuesday, November 14th, 12:15pm - 1:15pm, Room 603**
