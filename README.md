@@ -2,6 +2,8 @@
 
 **Tuesday, November 14th, 12:15pm - 1:15pm, Room 603**
 
+https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354
+
 ### Agenda
 
   - 12:15	[Introduction to goals of session](#goals-of-session)
@@ -30,12 +32,16 @@
 
 Many people in research organizations around the world combine expertise in programming with an intricate understanding of research. Although this combination of skills is extremely valuable, these people often lack a formal career path, particularly in the academic system. There is no easy way to recognise their contributions, reward them, or represent their views.
 
-In the UK (and increasingly in Europe), the term Research Software Engineer is used to describe this important role, while the US does not have a single term. This BoF aims to raise awareness of the role and bring the community together to address challenges.
+In the UK (and increasingly in Europe), the term Research Software Engineer is often used to describe this important role, while the US does not have a single term. However many alternative job titles exist in this space including: software developer, software specialist, staff programmer, research facilitator, research concierge, cyberinfrastructure concierge, catalyst, applications support engineering, applications support, and of course *research associate* and *postdoc*.
+
+This BoF aims to raise awareness of this family of roles and bring the community together to address challenges the recognition of the importance of these roles.
 
 The aims of this session are:
-  - Give an introduction to the
-  - Present a number of different examples of career paths
+  - Give an introduction to the landscape - what is happening now that is different from ten years ago
+  - Present a number of different examples of career paths and show the diversity of opportunity and barriers
   - Discuss challenges and enablers for career paths relating to the development of scientific software
+
+The input from this session will be published in a report co-authored by the group.
 
 ### Discussion Topics
 
@@ -62,3 +68,21 @@ As the time for discussion is limited, we suggest the following schedule:
   - 5 minutes to check notes
 
 In the wrap-up session, each facilitator will report each group's important things.
+
+### Session leaders
+
+This Birds of a Feather session was organized by:
+
+  - [Jay Jay Billings](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=jay_jay&ln=billings&uid=201763)
+  - [Alys Brett](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=alys&ln=brett&uid=546473)
+  - [Jeffrey Carver](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=jeffrey&ln=carver&uid=293453)
+  - [Neil Chue Hong](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=neil&ln=chue_hong&uid=761853)
+  - [Catherine Jones](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=catherine&ln=jones&uid=147473)
+  - [Daniel S. Katz](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=daniel&ln=katz&uid=061143)
+  - [Lauren Michael](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=lauren&ln=michael&uid=643463)
+  - [David Perez-Suarez](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=david&ln=perez-suarez&uid=247473)
+  - [Andrew R. Turner](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=andrew&ln=turner&uid=712473)
+ 
+ ### Code of Conduct
+ 
+ All participants are reminded that their involvement in this session is covered by the [SC17 Code of Conduct](http://sc17.supercomputing.org/attendees/code-of-conduct/).
