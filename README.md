@@ -10,7 +10,7 @@ https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354
 
   - 12:20	Lightning Talks (3 minutes each)
 
-    - [UK Research Software Engineer Survey results overview](sc17-software-careers/uk-rse-survey.pdf): Neil Chue Hong
+    - [UK Research Software Engineer Survey results overview](uk-rse-survey.pdf): Neil Chue Hong
     - Career profile: Catherine Jones, Software Engineering Group Leader at Science and Technology Facilities Council
     - Career profile: Andy Turner, Project Manager at Edinburgh Parallel Computing Centre
     - Career profile: Lauren Michael, Research Computing Facilitator (RCF) at the University of Wisconsin-Madison
