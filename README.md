@@ -2,7 +2,9 @@
 
 **Tuesday, November 14th, 12:15pm - 1:15pm, Room 603**
 
-https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354
+#### This website is [http://bit.ly/sc17-software-careers](http://bit.ly/sc17-software-careers)
+
+[SC17 Session Page](https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354)
 
 ### Agenda
 
