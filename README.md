@@ -75,6 +75,20 @@ As the time for discussion is limited, we suggest the following schedule:
 
 In the wrap-up session, each facilitator will report each group's important things.
 
+### Related Information
+
+Events at SC17
+  - BoF on Software Engineering and Reuse in Computational Science and Engineering, Tuesday 14th November, 17:15 - 19:00, Room 601
+  - BoF on HPC Carpentry - Practical, Hands-On HPC Training, Tuesday 14th November, 17:15 - 19:00, Room 301-303
+  - BoF on Non-Traditional Paths to HPC and How They Can and Do Enrich the Field, Wednesday 15th November, 12:15 - 13:15, Room 301-303
+
+Related Links:
+  - RSE State of the Nation 2017: [http://doi.org/10.5281/zenodo.495360](http://doi.org/10.5281/zenodo.495360)
+  - UK RSE Association: [https://rse.ac.uk/](https://rse.ac.uk/)
+  - International RSE Groups: [http://rse.ac.uk/community/international-rse-groups/](http://rse.ac.uk/community/international-rse-groups/)
+  - US RSE Survey: [http://bit.ly/US-RSE-2017-survey](http://rse.ac.uk/community/international-rse-groups/)
+
+
 ### Session leaders
 
 This Birds of a Feather session was organized by:
