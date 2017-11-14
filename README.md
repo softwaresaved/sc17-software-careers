@@ -6,6 +6,10 @@
 
 [SC17 Session Page](https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354)
 
+#### Sign up to our [mailing list](http://eepurl.com/c_iDqv) to be notified of reports, outcomes and future events
+
+[Collaborative Notes](https://docs.google.com/document/d/1CaQU2ZXT2RntxChSiN_LQjTY7BMFR76q9K4ZNul4k6k/edit?usp=sharing)
+
 ### Agenda
 
   - 12:15	[Introduction to goals of session](#goals-of-session)
@@ -13,10 +17,10 @@
   - 12:20	Lightning Talks (3 minutes each)
 
     - [UK Research Software Engineer Survey results overview](uk-rse-survey.pdf): Neil Chue Hong
-    - Career profile: Catherine Jones, Software Engineering Group Leader at Science and Technology Facilities Council
-    - Career profile: Andy Turner, Project Manager at Edinburgh Parallel Computing Centre
-    - Career profile: Lauren Michael, Research Computing Facilitator (RCF) at the University of Wisconsin-Madison
-    - Career profile: David Bernholdt, Distinguished R&D Staff Member and Group Leader at Oak Ridge National Laboratory
+    - [Career profile: Catherine Jones](BoF-RSECareers-SC2017-CMJones.pdf), Software Engineering Group Leader at Science and Technology Facilities Council
+    - [Career profile: Andy Turner](SC17_RSECareers_Lightning_AndyT.pdf), Project Manager at Edinburgh Parallel Computing Centre
+    - [Career profile: Lauren Michael](RCF_ACIREF_CaRC_LMichael.pdf), Research Computing Facilitator (RCF) at the University of Wisconsin-Madison
+    - [RSE in the US National Labs, from ORNL’s Perspective: David Bernholdt](ornl-bernholdt-v02.pdf), Distinguished R&D Staff Member and Group Leader at Oak Ridge National Laboratory
 
   - 12:35 [Discussion Topics](#discussion-topics)
 
